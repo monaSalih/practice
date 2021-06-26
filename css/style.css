@@ -11,7 +11,7 @@ header{
     position: fixed;
     width: 100%;
     overflow: hidden;
-    box-shadow: 0px 6px 16px rgb(26 12 12);
+     box-shadow: 0px 6px 16px rgb(26 12 12);
       /* justify-content: center; */
 }
 nav{
@@ -21,6 +21,7 @@ nav{
 .coco{
     background-color: white;
     color: black;
+    
 }
 .coco:hover{
     background-color: #4A503D;
@@ -36,8 +37,8 @@ ul{
 }
 
 ul li{
-    padding: 30px;
-    margin-left: 0px;
+    padding: 3px;
+    margin-left: 44px;
     
   
 }
@@ -55,7 +56,7 @@ ul li{
 
 article {
     text-align: center;
-   padding: 90px;
+   padding: 130px;
 
 }
 button{
